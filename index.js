@@ -40,7 +40,6 @@ barsukai.addKid('Marsietis');
 
 barsukai.sayHi();
 // "Barsukai" is visited by: Maryte, Kaziukas and Snaige.
-// Stasyte has left "Barsukai" kindergarden.
 
 barsukai.removeKid('Kaziukas');
 // Kaziukas has left "Barsukai" kindergarden.
